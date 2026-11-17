@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "orcad")(type "KiCad")(uri "${KIPRJMOD}/orcad.kicad_sym")(options "")(descr "OrCAD converted symbols"))
+)

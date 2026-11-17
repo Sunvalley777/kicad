@@ -1,0 +1,1 @@
+parts 343 lib symbols 71 power 134 offpage 129 wires 1442 junctions 264 noconnect 66 notes 15 {'labels_alias': 404}

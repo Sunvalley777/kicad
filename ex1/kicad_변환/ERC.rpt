@@ -1,0 +1,1012 @@
+ERC report (2026-11-17T14:32:59, Encoding UTF8)
+Report includes: Errors, Warnings, Exclusions
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; error
+    @(900 mils, 8100 mils): Symbol J1 Pin 79 [79, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 900 mils): Symbol J6 Pin 3 [3, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 1000 mils): Symbol J6 Pin 4 [4, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 1100 mils): Symbol J6 Pin 5 [5, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 1200 mils): Symbol J6 Pin 6 [6, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 1300 mils): Symbol J6 Pin 7 [7, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 1400 mils): Symbol J6 Pin 8 [8, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 1500 mils): Symbol J6 Pin 9 [9, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 1600 mils): Symbol J6 Pin 10 [10, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 1700 mils): Symbol J6 Pin 11 [11, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 1800 mils): Symbol J6 Pin 12 [12, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 1900 mils): Symbol J6 Pin 13 [13, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 2000 mils): Symbol J6 Pin 14 [14, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 2100 mils): Symbol J6 Pin 15 [15, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 2200 mils): Symbol J6 Pin 16 [16, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 2300 mils): Symbol J6 Pin 17 [17, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 2400 mils): Symbol J6 Pin 18 [18, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 2500 mils): Symbol J6 Pin 19 [19, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 2600 mils): Symbol J6 Pin 20 [20, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 2700 mils): Symbol J6 Pin 21 [21, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 2800 mils): Symbol J6 Pin 22 [22, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 2900 mils): Symbol J6 Pin 23 [23, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 3000 mils): Symbol J6 Pin 24 [24, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 3100 mils): Symbol J6 Pin 25 [25, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 3200 mils): Symbol J6 Pin 26 [26, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 3700 mils): Symbol J6 Pin 31 [31, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 3800 mils): Symbol J6 Pin 32 [32, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 4000 mils): Symbol J6 Pin 34 [34, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 4200 mils): Symbol J6 Pin 36 [36, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 4700 mils): Symbol J6 Pin 41 [41, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 4800 mils): Symbol J6 Pin 42 [42, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 4900 mils): Symbol J6 Pin 43 [43, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 5000 mils): Symbol J6 Pin 44 [44, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 5100 mils): Symbol J6 Pin 45 [45, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 5200 mils): Symbol J6 Pin 46 [46, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3400 mils, 5300 mils): Symbol J6 Pin 47 [47, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(9900 mils, 7300 mils): Symbol U2 Pin 14 [R20, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10000 mils, 7300 mils): Symbol U2 Pin 15 [R21, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10300 mils, 2400 mils): Symbol U2 Pin 90 [B11, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10500 mils, 15500 mils): Symbol R1 Pin 1 [1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10500 mils, 15600 mils): Symbol R2 Pin 1 [1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10500 mils, 15700 mils): Symbol R3 Pin 1 [1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10500 mils, 15800 mils): Symbol R4 Pin 1 [1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10600 mils, 2400 mils): Symbol U2 Pin 87 [B10, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11100 mils, 7300 mils): Symbol U2 Pin 26 [G20, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11100 mils, 16800 mils): Symbol R1737 Pin 2 [2, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11200 mils, 7300 mils): Symbol U2 Pin 27 [G21, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11700 mils, 2400 mils): Symbol U2 Pin 76 [G11, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11800 mils, 2400 mils): Symbol U2 Pin 75 [G10, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12000 mils, 14500 mils): Symbol U5 Pin 51 [PA0_(AD0), Tri-state, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12000 mils, 14600 mils): Symbol U5 Pin 50 [PA1_(AD1), Tri-state, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12000 mils, 14700 mils): Symbol U5 Pin 49 [PA2_(AD2), Tri-state, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12000 mils, 14800 mils): Symbol U5 Pin 48 [PA3_(AD3), Tri-state, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12700 mils, 20200 mils): Symbol J3 Pin 7 [7, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12700 mils, 20500 mils): Symbol J3 Pin 4 [4, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12700 mils, 21900 mils): Symbol J4 Pin 8 [8, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12800 mils, 3900 mils): Symbol U2 Pin 64 [R11, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12800 mils, 4000 mils): Symbol U2 Pin 63 [R10, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12800 mils, 6100 mils): Symbol U2 Pin 42 [B21, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(12800 mils, 6200 mils): Symbol U2 Pin 41 [B20, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(14300 mils, 14700 mils): Symbol U5 Pin 4 [(XCL0/AIN0)_PE2, Tri-state, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(14300 mils, 14800 mils): Symbol U5 Pin 5 [(OC3A/AIN1)_PE3, Tri-state, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(14300 mils, 15100 mils): Symbol U5 Pin 8 [(T3/INT6)_PE6, Tri-state, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(14300 mils, 18000 mils): Symbol U5 Pin 33 [~{(WR)_PG0}, Tri-state, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(14300 mils, 18100 mils): Symbol U5 Pin 34 [~{(RD)_PG1}, Tri-state, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(14300 mils, 18200 mils): Symbol U5 Pin 43 [(ALE)_PG2, Tri-state, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(16700 mils, 20700 mils): Symbol HA1 Pin 1 [1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(16700 mils, 21400 mils): Symbol HA3 Pin 1 [1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(18200 mils, 20700 mils): Symbol HA2 Pin 1 [1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(18200 mils, 21400 mils): Symbol HA4 Pin 1 [1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(21200 mils, 7200 mils): Symbol RP13 Pin 5 [5, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(21800 mils, 7200 mils): Symbol RP13 Pin 4 [4, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(31700 mils, 9400 mils): Symbol U9 Pin 6 [N.C, Passive, Line]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR' doesn't match copy in library 'orcad'
+    ; warning
+    @(800 mils, 10800 mils): Symbol C7 [CAPACITOR]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR' doesn't match copy in library 'orcad'
+    ; warning
+    @(1200 mils, 15400 mils): Symbol C52 [CAPACITOR]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR' doesn't match copy in library 'orcad'
+    ; warning
+    @(1200 mils, 18500 mils): Symbol C60 [CAPACITOR]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR' doesn't match copy in library 'orcad'
+    ; warning
+    @(1300 mils, 12300 mils): Symbol C41 [CAPACITOR]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(1900 mils, 3400 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(1800 mils, 4100 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(1900 mils, 3600 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(1800 mils, 3800 mils): Horizontal Wire, length 900 mils
+[lib_symbol_mismatch]: Symbol 'CAPACITOR' doesn't match copy in library 'orcad'
+    ; warning
+    @(3000 mils, 10800 mils): Symbol C6 [CAPACITOR]
+[multiple_net_names]: Both +3.3V and +3.3V_MCU are attached to the same items; +3.3V will be used in the netlist
+    ; warning
+    @(12600 mils, 13600 mils): Symbol #PWR0097 Hidden pin 1 [+3.3V, Power input, Line]
+    @(3100 mils, 10200 mils): Symbol #PWR0061 Hidden pin 1 [+3.3V_MCU, Power input, Line]
+[lib_symbol_mismatch]: Symbol 'FUSE' doesn't match copy in library 'orcad'
+    ; warning
+    @(3300 mils, 9000 mils): Symbol F2 [FUSE]
+[multiple_net_names]: Both LED_VF and VLED are attached to the same items; LED_VF will be used in the netlist
+    ; warning
+    @(29500 mils, 7900 mils): Global Label 'LED_VF'
+    @(3800 mils, 4400 mils): Symbol #PWR0134 Hidden pin 1 [VLED, Power input, Line]
+[multiple_net_names]: Both LATX1- and RXA1- are attached to the same items; LATX1- will be used in the netlist
+    ; warning
+    @(1400 mils, 4900 mils): Global Label 'LATX1-'
+    @(5300 mils, 3800 mils): Label 'RXA1-'
+[multiple_net_names]: Both LATX1+ and RXA1+ are attached to the same items; LATX1+ will be used in the netlist
+    ; warning
+    @(1400 mils, 4800 mils): Global Label 'LATX1+'
+    @(5300 mils, 3900 mils): Label 'RXA1+'
+[multiple_net_names]: Both LATX2+ and RXA2+ are attached to the same items; LATX2+ will be used in the netlist
+    ; warning
+    @(6100 mils, 4100 mils): Global Label 'LATX2+'
+    @(5300 mils, 4100 mils): Label 'RXA2+'
+[multiple_net_names]: Both LATX3+ and RXA3+ are attached to the same items; LATX3+ will be used in the netlist
+    ; warning
+    @(6100 mils, 4300 mils): Global Label 'LATX3+'
+    @(5300 mils, 4300 mils): Label 'RXA3+'
+[multiple_net_names]: Both LATX4+ and RXA4+ are attached to the same items; LATX4+ will be used in the netlist
+    ; warning
+    @(6100 mils, 4500 mils): Global Label 'LATX4+'
+    @(5300 mils, 4500 mils): Label 'RXA4+'
+[multiple_net_names]: Both LATC- and RXAC- are attached to the same items; LATC- will be used in the netlist
+    ; warning
+    @(1400 mils, 6100 mils): Global Label 'LATC-'
+    @(5300 mils, 4600 mils): Label 'RXAC-'
+[multiple_net_names]: Both LBTX0- and RXB0- are attached to the same items; LBTX0- will be used in the netlist
+    ; warning
+    @(1400 mils, 6400 mils): Global Label 'LBTX0-'
+    @(5300 mils, 5000 mils): Label 'RXB0-'
+[multiple_net_names]: Both LBTX3+ and RXB3+ are attached to the same items; LBTX3+ will be used in the netlist
+    ; warning
+    @(6100 mils, 5700 mils): Global Label 'LBTX3+'
+    @(5300 mils, 5700 mils): Label 'RXB3+'
+[multiple_net_names]: Both LBTC- and RXBC- are attached to the same items; LBTC- will be used in the netlist
+    ; warning
+    @(1400 mils, 7900 mils): Global Label 'LBTC-'
+    @(5300 mils, 6000 mils): Label 'RXBC-'
+[multiple_net_names]: Both LBTC+ and RXBC+ are attached to the same items; LBTC+ will be used in the netlist
+    ; warning
+    @(1400 mils, 7800 mils): Global Label 'LBTC+'
+    @(5300 mils, 6100 mils): Label 'RXBC+'
+[multiple_net_names]: Both LBTX4- and RXB4- are attached to the same items; LBTX4- will be used in the netlist
+    ; warning
+    @(1400 mils, 7600 mils): Global Label 'LBTX4-'
+    @(5300 mils, 6200 mils): Label 'RXB4-'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(5700 mils, 9500 mils): Horizontal Wire, length 500 mils
+[multiple_net_names]: Both LATX2- and RC1- are attached to the same items; LATX2- will be used in the netlist
+    ; warning
+    @(6100 mils, 4000 mils): Global Label 'LATX2-'
+    @(6440 mils, 4000 mils): Label 'RC1-'
+[multiple_net_names]: Both LATX3- and RD1- are attached to the same items; LATX3- will be used in the netlist
+    ; warning
+    @(6100 mils, 4200 mils): Global Label 'LATX3-'
+    @(6440 mils, 4200 mils): Label 'RD1-'
+[multiple_net_names]: Both LBTX3- and RD2- are attached to the same items; LBTX3- will be used in the netlist
+    ; warning
+    @(6100 mils, 5600 mils): Global Label 'LBTX3-'
+    @(6440 mils, 5600 mils): Label 'RD2-'
+[multiple_net_names]: Both LATX0- and RA1- are attached to the same items; LATX0- will be used in the netlist
+    ; warning
+    @(6100 mils, 3600 mils): Global Label 'LATX0-'
+    @(6450 mils, 3600 mils): Label 'RA1-'
+[multiple_net_names]: Both LBTX1- and RB2- are attached to the same items; LBTX1- will be used in the netlist
+    ; warning
+    @(1400 mils, 6700 mils): Global Label 'LBTX1-'
+    @(6450 mils, 5200 mils): Label 'RB2-'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 3600 mils): Horizontal Wire, length 2400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 3700 mils): Horizontal Wire, length 1800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 3800 mils): Horizontal Wire, length 2400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 3900 mils): Horizontal Wire, length 1800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 4000 mils): Horizontal Wire, length 2400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 4100 mils): Horizontal Wire, length 1800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 4200 mils): Horizontal Wire, length 2400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 4300 mils): Horizontal Wire, length 1800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 4400 mils): Horizontal Wire, length 2400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 4500 mils): Horizontal Wire, length 1800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 4600 mils): Horizontal Wire, length 2400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 4700 mils): Horizontal Wire, length 1800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 5000 mils): Horizontal Wire, length 2400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 5100 mils): Horizontal Wire, length 1800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 5200 mils): Horizontal Wire, length 2400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 5300 mils): Horizontal Wire, length 1800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 5400 mils): Horizontal Wire, length 2400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 5500 mils): Horizontal Wire, length 1800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 5600 mils): Horizontal Wire, length 2400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 5700 mils): Horizontal Wire, length 1800 mils
+[multiple_net_names]: Both LBTX4+ and RE2+ are attached to the same items; LBTX4+ will be used in the netlist
+    ; warning
+    @(1400 mils, 7500 mils): Global Label 'LBTX4+'
+    @(6700 mils, 6300 mils): Label 'RE2+'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4300 mils, 6200 mils): Horizontal Wire, length 2500 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(4900 mils, 6300 mils): Horizontal Wire, length 1900 mils
+[lib_symbol_mismatch]: Symbol 'CAPACITOR' doesn't match copy in library 'orcad'
+    ; warning
+    @(6900 mils, 15300 mils): Symbol C49 [CAPACITOR]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR' doesn't match copy in library 'orcad'
+    ; warning
+    @(6900 mils, 18400 mils): Symbol C57 [CAPACITOR]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(6400 mils, 9500 mils): Horizontal Wire, length 600 mils
+[lib_symbol_mismatch]: Symbol 'CAPACITOR' doesn't match copy in library 'orcad'
+    ; warning
+    @(7000 mils, 12200 mils): Symbol C38 [CAPACITOR]
+[multiple_net_names]: Both GND and L_GND are attached to the same items; GND will be used in the netlist
+    ; warning
+    @(5700 mils, 10300 mils): Symbol #PWR0007 Hidden pin 1 [GND, Power input, Line]
+    @(7200 mils, 3100 mils): Label 'L_GND'
+[multiple_net_names]: Both LATX0+ and RA1+ are attached to the same items; LATX0+ will be used in the netlist
+    ; warning
+    @(6100 mils, 3700 mils): Global Label 'LATX0+'
+    @(7200 mils, 3300 mils): Label 'RA1+'
+[multiple_net_names]: Both LATC+ and RCLK+ are attached to the same items; LATC+ will be used in the netlist
+    ; warning
+    @(1400 mils, 6000 mils): Global Label 'LATC+'
+    @(7200 mils, 4100 mils): Label 'RCLK+'
+[multiple_net_names]: Both LATX4- and RE1- are attached to the same items; LATX4- will be used in the netlist
+    ; warning
+    @(6100 mils, 4400 mils): Global Label 'LATX4-'
+    @(7200 mils, 4600 mils): Label 'RE1-'
+[multiple_net_names]: Both LBTX0+ and RA2+ are attached to the same items; LBTX0+ will be used in the netlist
+    ; warning
+    @(1400 mils, 6300 mils): Global Label 'LBTX0+'
+    @(7200 mils, 5100 mils): Label 'RA2+'
+[multiple_net_names]: Both LBTX1+ and RB2+ are attached to the same items; LBTX1+ will be used in the netlist
+    ; warning
+    @(6100 mils, 5300 mils): Global Label 'LBTX1+'
+    @(7200 mils, 5300 mils): Label 'RB2+'
+[multiple_net_names]: Both LBTX2- and RC2- are attached to the same items; LBTX2- will be used in the netlist
+    ; warning
+    @(1400 mils, 7000 mils): Global Label 'LBTX2-'
+    @(7200 mils, 5600 mils): Label 'RC2-'
+[multiple_net_names]: Both LBTX2+ and RC2+ are attached to the same items; LBTX2+ will be used in the netlist
+    ; warning
+    @(6100 mils, 5500 mils): Global Label 'LBTX2+'
+    @(7200 mils, 5700 mils): Label 'RC2+'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(7200 mils, 9500 mils): Horizontal Wire, length 600 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8500 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8600 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8000 mils, 9500 mils): Horizontal Wire, length 600 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8700 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9000 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9100 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9200 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9300 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(8800 mils, 9500 mils): Horizontal Wire, length 500 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9400 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9500 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9600 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9700 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9800 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9900 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10000 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10000 mils, 14900 mils): Horizontal Wire, length 1200 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10000 mils, 15000 mils): Horizontal Wire, length 1200 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10100 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(9500 mils, 9500 mils): Horizontal Wire, length 600 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10200 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10400 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10500 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10700 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10800 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10300 mils, 9500 mils): Horizontal Wire, length 500 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10300 mils, 18400 mils): Horizontal Wire, length 500 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(10900 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11000 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11100 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11200 mils, 2400 mils): Vertical Wire, length 700 mils
+[multiple_net_names]: Both ISP_SCK and SCK are attached to the same items; ISP_SCK will be used in the netlist
+    ; warning
+    @(12100 mils, 22300 mils): Label 'ISP_SCK'
+    @(11200 mils, 15600 mils): Label 'SCK'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11300 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11300 mils, 16000 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11400 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11400 mils, 17500 mils): Horizontal Wire, length 600 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11500 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11600 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11100 mils, 9500 mils): Horizontal Wire, length 600 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(11900 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12000 mils, 2400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 3100 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 3200 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 3300 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 3400 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 3500 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 3600 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 3700 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 3800 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 4100 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 4200 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 4300 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 4400 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 4500 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 4600 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 4900 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 5000 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 5100 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 5200 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 5300 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 5400 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 5500 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 5600 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 5700 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 5800 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 5900 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 6000 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 6300 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 6400 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 6500 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(12800 mils, 6600 mils): Horizontal Wire, length 700 mils
+[multiple_net_names]: Both M_SCL and VCOM_I2C_SCL are attached to the same items; M_SCL will be used in the netlist
+    ; warning
+    @(17700 mils, 12800 mils): Label 'M_SCL'
+    @(14300 mils, 15500 mils): Label 'VCOM_I2C_SCL'
+[multiple_net_names]: Both M_SDA and VCOM_I2C_SDA are attached to the same items; M_SDA will be used in the netlist
+    ; warning
+    @(15000 mils, 15600 mils): Label 'M_SDA'
+    @(14300 mils, 15600 mils): Label 'VCOM_I2C_SDA'
+[lib_symbol_mismatch]: Symbol 'CAPACITOR_POL_SM' doesn't match copy in library 'orcad'
+    ; warning
+    @(14900 mils, 1800 mils): Symbol C3 [CAPACITOR_POL_SM]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR_POL_SM' doesn't match copy in library 'orcad'
+    ; warning
+    @(14900 mils, 3100 mils): Symbol C8 [CAPACITOR_POL_SM]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR_POL_SM' doesn't match copy in library 'orcad'
+    ; warning
+    @(14900 mils, 4300 mils): Symbol C17 [CAPACITOR_POL_SM]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR_POL_SM' doesn't match copy in library 'orcad'
+    ; warning
+    @(14900 mils, 5500 mils): Symbol C25 [CAPACITOR_POL_SM]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14300 mils, 14500 mils): Horizontal Wire, length 600 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14300 mils, 14600 mils): Horizontal Wire, length 600 mils
+[multiple_net_names]: Both LCM_WP and M_WP are attached to the same items; LCM_WP will be used in the netlist
+    ; warning
+    @(29000 mils, 14700 mils): Global Label 'LCM_WP'
+    @(15100 mils, 15900 mils): Label 'M_WP'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14300 mils, 16500 mils): Horizontal Wire, length 900 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14300 mils, 16600 mils): Horizontal Wire, length 900 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14300 mils, 16700 mils): Horizontal Wire, length 900 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14300 mils, 15500 mils): Horizontal Wire, length 1100 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14300 mils, 15600 mils): Horizontal Wire, length 1100 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14300 mils, 15700 mils): Horizontal Wire, length 1100 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14300 mils, 15800 mils): Horizontal Wire, length 1100 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14900 mils, 16100 mils): Horizontal Wire, length 1000 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14900 mils, 16900 mils): Horizontal Wire, length 1000 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14900 mils, 17000 mils): Horizontal Wire, length 1000 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(14900 mils, 17100 mils): Horizontal Wire, length 1000 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(15800 mils, 14900 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(16800 mils, 19200 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(19500 mils, 19400 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(20300 mils, 19400 mils): Horizontal Wire, length 400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21000 mils, 19400 mils): Horizontal Wire, length 400 mils
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(21880 mils, 10100 mils): Horizontal Wire, length 20 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21880 mils, 10100 mils): Horizontal Wire, length 20 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21700 mils, 19400 mils): Horizontal Wire, length 400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21900 mils, 9500 mils): Horizontal Wire, length 500 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 1200 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 1300 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 1400 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 1500 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 1600 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 1700 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 1800 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 1900 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 2100 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 2200 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 2300 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 2400 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 2500 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 2600 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 2700 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 2800 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 3000 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 3100 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 3200 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 3300 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 3400 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 3500 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 3600 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 3700 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 4000 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 4100 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 4200 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 4300 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 4400 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 4500 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 4600 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 4700 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 4900 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 5000 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 5100 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 5200 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 5300 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 5400 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 5500 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 5600 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 5800 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 5900 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 6000 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 6100 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 6200 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 6300 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 6400 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(21800 mils, 6500 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(22400 mils, 19400 mils): Horizontal Wire, length 400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(22900 mils, 13400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(22600 mils, 9500 mils): Horizontal Wire, length 600 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(23200 mils, 13400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(23500 mils, 13400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(23600 mils, 13400 mils): Vertical Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(23200 mils, 19400 mils): Horizontal Wire, length 400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(23700 mils, 13400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(23800 mils, 13400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(23900 mils, 13400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(23400 mils, 9500 mils): Horizontal Wire, length 600 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(24000 mils, 13400 mils): Vertical Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(24100 mils, 13400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(24200 mils, 13400 mils): Vertical Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(24000 mils, 19400 mils): Horizontal Wire, length 400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(23800 mils, 12300 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(24800 mils, 19400 mils): Horizontal Wire, length 400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25100 mils, 14400 mils): Horizontal Wire, length 700 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25100 mils, 14300 mils): Horizontal Wire, length 800 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25600 mils, 19400 mils): Horizontal Wire, length 400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(26300 mils, 19400 mils): Horizontal Wire, length 500 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(27100 mils, 19400 mils): Horizontal Wire, length 500 mils
+[lib_symbol_mismatch]: Symbol 'INDUCTOR_0_R90' doesn't match copy in library 'orcad'
+    ; warning
+    @(27700 mils, 6000 mils): Symbol BD9 [INDUCTOR_0_R90]
+[lib_symbol_mismatch]: Symbol 'INDUCTOR_0_R90' doesn't match copy in library 'orcad'
+    ; warning
+    @(27700 mils, 7100 mils): Symbol BD12 [INDUCTOR_0_R90]
+[lib_symbol_mismatch]: Symbol 'INDUCTOR_0_R90' doesn't match copy in library 'orcad'
+    ; warning
+    @(28000 mils, 4900 mils): Symbol BD6 [INDUCTOR_0_R90]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR_POL_SM_1' doesn't match copy in library 'orcad'
+    ; warning
+    @(28000 mils, 6100 mils): Symbol C22 [CAPACITOR_POL_SM_1]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR_POL_SM_1' doesn't match copy in library 'orcad'
+    ; warning
+    @(28000 mils, 7200 mils): Symbol C27 [CAPACITOR_POL_SM_1]
+[lib_symbol_mismatch]: Symbol 'INDUCTOR_0_R90' doesn't match copy in library 'orcad'
+    ; warning
+    @(28300 mils, 3700 mils): Symbol BD3 [INDUCTOR_0_R90]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR_POL_SM_1' doesn't match copy in library 'orcad'
+    ; warning
+    @(28300 mils, 5000 mils): Symbol C12 [CAPACITOR_POL_SM_1]
+[lib_symbol_mismatch]: Symbol 'INDUCTOR_0_R90' doesn't match copy in library 'orcad'
+    ; warning
+    @(28300 mils, 8200 mils): Symbol BD14 [INDUCTOR_0_R90]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(27900 mils, 19400 mils): Horizontal Wire, length 400 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(28400 mils, 5400 mils): Horizontal Wire, length 100 mils
+[lib_symbol_mismatch]: Symbol 'CAPACITOR_POL_SM_1' doesn't match copy in library 'orcad'
+    ; warning
+    @(28600 mils, 3800 mils): Symbol C5 [CAPACITOR_POL_SM_1]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR_POL_SM_1' doesn't match copy in library 'orcad'
+    ; warning
+    @(28600 mils, 8300 mils): Symbol C30 [CAPACITOR_POL_SM_1]
+[lib_symbol_mismatch]: Symbol 'CAPACITOR_POL_SM' doesn't match copy in library 'orcad'
+    ; warning
+    @(28600 mils, 10700 mils): Symbol C21 [CAPACITOR_POL_SM]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(28700 mils, 19400 mils): Horizontal Wire, length 1000 mils
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(31700 mils, 9500 mils): Horizontal Wire, length 600 mils
+
+ ** ERC messages: 323  Errors 73  Warnings 250
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

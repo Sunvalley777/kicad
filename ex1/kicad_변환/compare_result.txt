@@ -1,0 +1,2 @@
+EDIF nets with pins: 309  exact match: 309  mismatch: 0
+pins missing in KiCad netlist: 0 []
