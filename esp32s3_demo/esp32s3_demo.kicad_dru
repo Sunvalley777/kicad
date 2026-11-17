@@ -1,0 +1,12 @@
+(version 1)
+
+# USB-C receptacle GND pins: fine-pitch pins get only one thermal spoke from the pour,
+# so tie them to the GND pour solidly (connector, reflow-soldered).
+(rule "J1 GND solid to pour"
+	(condition "A.Type == 'Pad' && A.memberOfFootprint('J1') && A.NetName == 'GND'")
+	(constraint zone_connection solid))
+
+# D2 cathode sits between routed tracks; one 0.5 mm spoke carries the LED current.
+(rule "D2 GND single spoke"
+	(condition "A.Type == 'Pad' && A.memberOfFootprint('D2') && A.NetName == 'GND'")
+	(constraint min_resolved_spokes 1))
